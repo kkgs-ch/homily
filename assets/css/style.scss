@@ -6,10 +6,13 @@
   "minima/skins/{{ site.minima.skin | default: 'auto' }}",
   "minima/initialize";
 
-@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+ 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
+ 
 
 div {
-     font-family: 'Nanum Pen Script';
+    font-family: 'Noto Serif KR', serif;
+
 }
 
 div {word-break:keep-all;}
