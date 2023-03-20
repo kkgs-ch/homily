@@ -34,7 +34,7 @@ layout: default
     {%- endif -%}
     <!-- Multiple ways to access 매일미사 https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }} -->
 
-    {%- if page.homily -%}
+    {%- if page.not_homily -%}
     
      
     
@@ -59,7 +59,7 @@ layout: default
       <p> {{ page.opening | escape }} </p>
       {%- endif -%}
       
-      {%- if page.homily -%}
+      {%- if page.not_homily -%}
       [강론말씀] 
       {%- endif -%}
       
