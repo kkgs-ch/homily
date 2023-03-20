@@ -6,4 +6,11 @@
   "minima/skins/{{ site.minima.skin | default: 'auto' }}",
   "minima/initialize";
 
+@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+
+div {
+     font-family: 'Nanum Pen Script';
+}
+
 div {word-break:keep-all;}
+
