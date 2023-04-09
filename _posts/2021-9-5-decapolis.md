@@ -7,7 +7,7 @@ image: Abila_(Decapolis).jpeg
 first_reading:  이사야서 35,4-7ㄴ
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=35
 second_reading:  야고보서2,1-5
-second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=8
+second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=166&p=2
 gospel:  마르코 7,31-37
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=148&p=7
 
