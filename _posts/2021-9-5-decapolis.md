@@ -1,8 +1,19 @@
 ---
 
 layout: post
-title: ""
+title: 연중 제23주일
 image: Abila_(Decapolis).jpeg
+
+first_reading:  이사야서의 말씀입니다.
+35,4-7ㄴ
+first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=133&p=37
+second_reading:  야고보서의 말씀입니다.
+2,1-5
+second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=8
+gospel:  마르코가 전한 거룩한 복음입니다.
+7,31-37
+gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=150&p=11
+
 
 ---
 

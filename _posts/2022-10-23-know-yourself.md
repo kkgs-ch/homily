@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: 연중 제30주일, 민족들의 복음화를 위한 미사(전교 주일)
 first_reading: 이사야서 2,1-5
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=2
 second_reading: 로마서 10,9-18
