@@ -5,7 +5,7 @@ title: 연중 제2주일
 image: salzburg.jpeg
 
 first_reading:   이사야서의 말씀입니다.62,1-5
-first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=133&p=37
+first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=62
 second_reading:  사도 바오로의 코린토 1서 말씀입니다.12,4-11
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=153&p=12
 gospel:  요한이 전한 거룩한 복음입니다.2,1-11
