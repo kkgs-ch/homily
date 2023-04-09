@@ -6,7 +6,7 @@ image: salzburg.jpeg
 
 first_reading:   이사야서 62,1-5
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=62
-second_reading:  사도 바오로의 코린토 1서 12,4-11
+second_reading:  코린토 1서 12,4-11
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=153&p=12
 gospel:  요한 2,1-11
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=150&p=2
