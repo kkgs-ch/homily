@@ -9,7 +9,7 @@ first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.as
 second_reading:  사도 바오로의 코린토 1서 말씀입니다.12,4-11
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=8
 gospel:  요한이 전한 거룩한 복음입니다.2,1-11
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=150&p=11
+gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=150&p=2
 
 ---
  
