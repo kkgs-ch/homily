@@ -4,9 +4,9 @@ layout: post
 title: 주님 수난 성금요일
 image: karfreitag.jpg
 bonstetten: true
-first_reading: 이사야서  52,13―53,12
+first_reading: 이사야서 52,13―53,12
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=52
-second_reading: 히브리서  4,14-16; 5,7-9
+second_reading: 히브리서 4,14-16; 5,7-9
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=165&p=4
 gospel: 요한이 전한 우리 주 예수 그리스도의 수난기입니다. 18,1―19,42
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?menu=bible&m=2&n=150&p=18
