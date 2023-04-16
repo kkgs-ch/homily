@@ -14,8 +14,10 @@ epistle: 로마서 6,3-11
 epistle_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=6
 gospel: 마르코 16,1-7
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=148&p=16
+daily_read: https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day=20210403&missaid=12579#missa_02
+daily_listen: https://maria.catholic.or.kr/mi_pr/missa/missa.asp?menu=missa&missaid=12579&gomonth=2021-04-03&missatype=DA
 
 ---
- 
+
 내용 준비 중
 
