@@ -29,6 +29,13 @@ layout: default
     <h3 style="text-align: right;">제 2 독서 > <a href="{{ page.second_reading_link | escape }}">{{ page.second_reading |
         escape }}</a></h3>
     {%- endif -%}
+    {%- if page.third_reading -%}
+    <h3 style="text-align: right;">제 3 독서 > <a href="{{ page.third_reading_link | escape }}">{{ page.third_reading |
+        escape }}</a></h3>
+    {%- endif -%}
+    {%- if page.epistle -%}
+    <h3 style="text-align: right;">서간 > <a href="{{ page.epistle_link | escape }}">{{ page.epistle | escape }}</a></h3>
+    {%- endif -%}
     {%- if page.gospel -%}
     <h3 style="text-align: right;">복음 > <a href="{{ page.gospel_link | escape }}">{{ page.gospel | escape }}</a></h3>
     {%- endif -%}
