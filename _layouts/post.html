@@ -41,24 +41,28 @@ layout: default
 
   
     
-     
+    {%- if page.not_homily -%} 
+
+    {%- else -%}
+      <h3 style="text-align: right;">매일미사 > 
+        {%- if page.daily_read -%}
+        <a
+        href="{{ page.daily_read | escape }}">읽기</a>
+        {%- else -%}
+        <a
+        href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.date | date: '%Y%m%d' }}&missaid=13766#missa_02">읽기</a>
+        {%- endif -%}
+        &
+        {%- if page.daily_listen -%}
+        <a
+        href="{{ page.daily_listen | escape }}">듣기</a>
+        {%- else -%}
+        <a href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }}">듣기</a>
+        {%- endif -%}
+      </h3>
+
+    {%- endif -%}
     
-    <h3 style="text-align: right;">매일미사 > 
-      {%- if page.daily_read -%}
-      <a
-      href="{{ page.daily_read | escape }}">읽기</a>
-      {%- else -%}
-      <a
-      href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.date | date: '%Y%m%d' }}&missaid=13766#missa_02">읽기</a>
-      {%- endif -%}
-      &
-      {%- if page.daily_listen -%}
-      <a
-      href="{{ page.daily_listen | escape }}">듣기</a>
-      {%- else -%}
-      <a href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }}">듣기</a>
-      {%- endif -%}
-    </h3>
      
     {%- if page.image -%}
     <p style="text-align:center;">
