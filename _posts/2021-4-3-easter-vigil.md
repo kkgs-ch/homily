@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 2021년 4월 3일 토요일 파스카 성야
+title: 파스카 성야
 image: Uetliberg_rueckseite.jpg
 bonstetten: true
 first_reading: 창세기 1,1―2,2
