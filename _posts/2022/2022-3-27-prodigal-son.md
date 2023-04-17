@@ -8,6 +8,7 @@ second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.a
 gospel: 루카 15,1-3.11ㄴ-32
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=15
 image: Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg
+tags: 사순
 
 ---
 
