@@ -19,3 +19,7 @@ plugins:
  - jekyll-seo-tag
 
 baseurl: /homily
+
+# https://github.com/pattex/jekyll-tagging
+tag_page_layout: tag_page
+tag_page_dir: tag
