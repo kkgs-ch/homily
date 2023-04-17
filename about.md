@@ -14,4 +14,5 @@ We collect here Korean homilies from Father Antonio given during catholic masses
 
 [©2023 스위스 취리히 한인 천주교회](http://www.kkgs.ch/)
 
+기록 상의 오류, 혹은 저작권 등의 법적인 책임은 홈페이지 운영진에게 있습니다.
 [Technical support](mailto:kkgs.ch@gmail.com)
