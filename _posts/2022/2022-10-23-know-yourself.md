@@ -5,8 +5,8 @@ first_reading: 이사야서 2,1-5
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=2
 second_reading: 로마서 10,9-18
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=10
-gospel: 마태오 28,16-20
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=147&p=28
+gospel: Lk 18,9-14
+gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=18
 image: 800px-Delfy.jpeg
 
 ---
@@ -100,3 +100,5 @@ image: 800px-Delfy.jpeg
 우리의
 거룩한 이성을 잘 관리하시고 주어진 자유를 기쁘게 누리시길 바랍니다.
 아멘.
+
+참고: 오늘 복음은 매일미사에 나오는 부분이 아니라, <a href="https://www.bibelwerk.de/verein/was-wir-bieten/sonntagslesungen/alle-sonntagslesungen">독일어 전례력(C)</a>을 기준으로 합니다.
