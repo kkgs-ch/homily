@@ -5,7 +5,7 @@ first_reading: 이사야서 2,1-5
 first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=2
 second_reading: 로마서 10,9-18
 second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=152&p=10
-gospel: Lk 18,9-14
+gospel: 루카 18,9-14
 gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=18
 image: 800px-Delfy.jpeg
 
