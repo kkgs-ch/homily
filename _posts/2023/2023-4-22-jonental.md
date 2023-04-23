@@ -1,6 +1,6 @@
 ---
 
-title:  "11시 Wallfahrt Kapelle Jonental 부활 제3주일"
+title:  "11시 Wallfahrt Kapelle Jonental 부활 제3주일 특전미사"
 layout: post 
 bonstetten: true
 image:  jonental.jpg
@@ -30,7 +30,7 @@ gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n
 
 참고사항>
 <ul>
-<li>주일미사는 2개의 독서를 해야 하는데 예외적인 경우 1개의 독서만 하는 것도 허락합니다.</li>
+<li>한국어 매일미사 독서가 아닌, 독일어권 4월 23일 (Lesejahr A) 일요일 독서를 따랐습니다. 주일미사는 2개의 독서를 해야 하는데 예외적인 경우 1개의 독서만 하는 것도 허락합니다.</li>
 <li>복음에 등장하는 티베리아는 겟네사렛과 같은 도시입니다. 유대인들은 후자를, 이방인들은 전자를 지명으로 사용했다 합니다.
 그래서 갈릴레아 호수는 겟네사렛, 티베리아 호수라고도 불립니다.</li>
 <li>153이라는 숫자는 당시 이스라엘에 알려진 물고기 종류라는 전승이 있습니다.
