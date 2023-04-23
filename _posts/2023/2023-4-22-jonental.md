@@ -1,6 +1,6 @@
 ---
 
-title:  "부활 제3주일 2023년 4월 22일 11시 Wallfahrt Kapelle Jonental"
+title:  "11시 Wallfahrt Kapelle Jonental 부활 제3주일"
 layout: post 
 bonstetten: true
 image:  jonental.jpg
