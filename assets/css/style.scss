@@ -11,9 +11,8 @@
  
 
 div {
-    font-family: 'Noto Serif KR', serif;
-
+  font-family: 'Noto Serif KR', serif;
+  word-break: keep-all;
+  text-align: justify;
+  text-justify: inter-word;
 }
-
-div {word-break:keep-all;}
-
