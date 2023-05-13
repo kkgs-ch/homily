@@ -24,9 +24,13 @@ gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n
 
 복음에서는 물고기를 숯불에 구워서 먹었을까요? 예수님은 예수님에게 모여든 사람들, 우리들을 어떻게 하실까요? 예수님은 사람들을 잡는 대신, 오히려 자유롭게 풀어주십니다. 우리들이 다른 곳에 퍼져서 다른 물고기들(사람들)을 데려오기를 바라십니다.  
 
+<hr>
+
 외부링크:
 <a href="http://church.catholic.or.kr/chonho/%EC%84%B1%EC%A7%80%EC%88%9C%EB%A1%80.htm">성지순례1</a>
 <a href="http://home.catholic.or.kr/pdsm/bbs_view.asp?num=1460&id=141127&SORT=C&menu=4797">성지순례2</a>
+
+<hr>
 
 참고사항>
 <ul>

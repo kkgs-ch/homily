@@ -40,7 +40,7 @@ gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n
 
 오늘 우리는 김 토마스 형제님의 1 주기를 거행합니다. 어떻게 보면 우리 민족 정서에 남의 땅에 묻히는 게 슬픈 일일 수도 있습니다. 그래도 우리는 주님을 찬미해야 합니다. 우리의 입과 귀를 열어주십사 청하십시오. 주님을 온전히 찬미하기 위해 말입니다. 아멘.
 
---- 
+<hr>
 
 참고자료:
 <a href="https://maria.catholic.or.kr/dictionary/term/term_view.asp?ctxtIdNum=4218&keyword=%EC%B0%AC%EB%AF%B8&gubun=01">성무일도</a>

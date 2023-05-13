@@ -101,4 +101,6 @@ image: 800px-Delfy.jpeg
 거룩한 이성을 잘 관리하시고 주어진 자유를 기쁘게 누리시길 바랍니다.
 아멘.
 
+<hr>
+
 참고: 오늘 복음은 매일미사에 나오는 부분이 아니라, <a href="https://www.bibelwerk.de/verein/was-wir-bieten/sonntagslesungen/alle-sonntagslesungen">독일어 전례력(C)</a>을 기준으로 합니다.
