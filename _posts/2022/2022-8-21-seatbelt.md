@@ -2,11 +2,11 @@
 layout: post
 title: ""
 first_reading: 이사야서 66,18-21
-first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=66
+first_reading_link: m=1&n=129&p=66
 second_reading: 히브리서 12,5-7.11-13
-second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=165&p=12
+second_reading_link: m=2&n=165&p=12
 gospel: 루카 13,22-30
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=13
+gospel_link: m=2&n=149&p=13
 image: 400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._(49894805893).jpg
  
 ---
@@ -37,7 +37,7 @@ image: 400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_
 우리는 ‘인생’ 이라는 비행기를 타고 갑니다. 우리의 기장은 예수 그리스도 입니다.
 예수님께서 비행기를 조종하십니다. 그러나 비행기는 추락을 합니다. 악이 이 비행기에
 있기 때문입니다. 테러리스트가 이 비행기 안에 있고 심지어 승객 일부가 테러리스트에
-동조하고 있습니다. 
+동조하고 있습니다.
 
 예수님께서 기장이신 이 흘륭한 비행기가 추락을 하는데 기장님인
 예수님께 오늘 복음에서는 어떤 사람이 ‘구원받을 사람이 얼마나 될까요? 적습니까?’

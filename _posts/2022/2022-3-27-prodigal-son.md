@@ -2,11 +2,11 @@
 layout: post
 title: 사순 4주일
 first_reading: 여호수아기 5,9ㄱㄴ.10-12
-first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=106&p=5
+first_reading_link: m=1&n=106&p=5
 second_reading: 코린토 2서5,17-21
-second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=154&p=5
+second_reading_link: m=2&n=154&p=5
 gospel: 루카 15,1-3.11ㄴ-32
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=149&p=15
+gospel_link: m=2&n=149&p=15
 image: Rembrandt_Harmensz._van_Rijn_-_The_Return_of_the_Prodigal_Son.jpg
 tags: 사순
 

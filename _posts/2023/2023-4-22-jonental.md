@@ -5,9 +5,9 @@ layout: post
 bonstetten: true
 image:  jonental.jpg
 second_reading:  베드로 1서 1,17-21
-second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=167&p=1
+second_reading_link: m=2&n=167&p=1
 gospel:  요한 21, 1-14
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=150&p=21
+gospel_link: m=2&n=150&p=21
 
 ---
 
@@ -16,7 +16,7 @@ gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n
 저희가 오늘 미사를 드리는 이 <a href="https://kath-bremgarten-reusstal.ch/jonen/kapelle-jonental-2-2/">Kapelle Jonental</a>는 14세기에 지어졌고, 이 성당에 내려오는 전설에 따르면, 나쁜 사람들이 성모상을 훔쳐서 Jonerbach강에 버렸는데 Jonental강에서 다시 발견되었다고 합니다.
 
 강론말씀>
-오늘 복음에는 <a href="https://ko.wikipedia.org/wiki/%EA%B0%88%EB%A6%B4%EB%9E%98%EC%95%84%ED%98%B8">갈릴래아 호수</a> (또다른 명칭: 티베리아스 호수)에서 물고기를 잡는 이야기가 나옵니다. 우리가 살고 있는 취리히의 호수에 대해서 생각해 봅시다. <a href="https://ko.wikipedia.org/wiki/%EC%B7%A8%EB%A6%AC%ED%9E%88%ED%98%B8">취리히 호수</a>에는 어떤 물고기들이 살고 있나요? Hecht 등 40종의 물고기종(Fischarten)이 살고 있습니다. 얼마나 많은 어부들이 있나요? 취리히에는 어부가 많지 않습니다. 1999년을 기준으로 겨우 9명의 어부만이 정식으로 등록되어 있었습니다. 
+오늘 복음에는 <a href="https://ko.wikipedia.org/wiki/%EA%B0%88%EB%A6%B4%EB%9E%98%EC%95%84%ED%98%B8">갈릴래아 호수</a> (또다른 명칭: 티베리아스 호수)에서 물고기를 잡는 이야기가 나옵니다. 우리가 살고 있는 취리히의 호수에 대해서 생각해 봅시다. <a href="https://ko.wikipedia.org/wiki/%EC%B7%A8%EB%A6%AC%ED%9E%88%ED%98%B8">취리히 호수</a>에는 어떤 물고기들이 살고 있나요? Hecht 등 40종의 물고기종(Fischarten)이 살고 있습니다. 얼마나 많은 어부들이 있나요? 취리히에는 어부가 많지 않습니다. 1999년을 기준으로 겨우 9명의 어부만이 정식으로 등록되어 있었습니다.
 
 취리히 호수랑 갈릴래아 호수는 어떻게 다릅니까? 갈릴래아 호수는 2배 넓고, 깊이는 훨씬 얕습니다. 취리히 호수 깊은 곳이 140미터가 넘는 반면, 갈릴래아 호수는 40미터 정도입니다. 갈릴래아 호수에는 더 많은 종류의 물고기들이 살고 있습니다. 그리고 취리히보다 훨씬 많은 어부들이 물고기를 잡고 있습니다.
 

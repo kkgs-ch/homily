@@ -5,11 +5,11 @@ title: 연중 제2주일
 image: salzburg.jpeg
 
 first_reading:  이사야서 62,1-5
-first_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=1&n=129&p=62
+first_reading_link: m=1&n=129&p=62
 second_reading: 코린토 1서 12,4-11
-second_reading_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=153&p=12
+second_reading_link: m=2&n=153&p=12
 gospel: 요한 2,1-11
-gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n=150&p=2
+gospel_link: m=2&n=150&p=2
 
 ---
  
@@ -29,7 +29,7 @@ gospel_link: https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?m=2&n
 
 <b>기적의 두 번째 특징은 기적은 근본적으로 엄청난 양으로 이루어집니다.</b> 어떤 암 투병하는 자매님이 있었습니다. 그 자매님은 6개월만 살 것이라는 시한부 선고를 받았습니다. 그 후 그 자매님은 그것을 받아들이는 마음으로 사셨는데 6개월이 지났는데 암이 다 나아 버렸습니다. 5명의 의사들도 설명을 할 수 없었는데 이것이 소소한 기적입니다.
 
-예수님께서는 성경에서 5000명의 사람들이 배부르게 먹고 남을 정도로 빵과 고기를 만들어 내셨습니다. 주님의 기적은 양이 어마어마합니다. 왜냐하면 주님은 관대하시고 너그러우신 분이기 때문입니다. 오늘 복음에서 예수님은 6동이의 물을 포도주로 바꾸셨습니다. 한 독은 100리터 인데, 
+예수님께서는 성경에서 5000명의 사람들이 배부르게 먹고 남을 정도로 빵과 고기를 만들어 내셨습니다. 주님의 기적은 양이 어마어마합니다. 왜냐하면 주님은 관대하시고 너그러우신 분이기 때문입니다. 오늘 복음에서 예수님은 6동이의 물을 포도주로 바꾸셨습니다. 한 독은 100리터 인데,
 6독은 600리터이고 그만한 양의 물을 순식간에
 포도주로 바꾸셨습니다. 그 600리터를 병으로 환산하면 와인 800에서 1000병이 됩니다. 그리고 그것을 퍼다 나눠주라 하십니다.
 
