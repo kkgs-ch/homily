@@ -8,6 +8,9 @@ second_reading:  베드로 1서 1,17-21
 second_reading_link: m=2&n=167&p=1
 gospel:  요한 21, 1-14
 gospel_link: m=2&n=150&p=21
+daily_missa: 20230423
+daily_read: https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day=20230423&missaid=13766#missa_02
+daily_listen: https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth=2023-04-23
 
 ---
 
