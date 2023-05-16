@@ -17,6 +17,7 @@ epistle: 로마서 6,3-11
 epistle_link_cbck : Rom/6
 epistle_link: m=2&n=152&p=6
 gospel: 마르코 16,1-7
+gospel_link_de: Markus16
 gospel_link_cbck: Mk/16
 gospel_link: m=2&n=148&p=16
 daily_missa: 20210403/14614

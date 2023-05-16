@@ -8,7 +8,8 @@ second_reading: 히브리서 12,5-7.11-13
 second_reading_link_cbck: Heb/12 
 second_reading_link: m=2&n=165&p=12
 gospel: 루카 13,22-30
-gospel_link_cbck: Lk/13
+gospel_link_de: Lukas13
+gospel_link_cbck:  Lk/13
 gospel_link: m=2&n=149&p=13
 image: 400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._(49894805893).jpg
  

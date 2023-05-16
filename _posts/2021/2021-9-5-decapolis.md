@@ -11,6 +11,7 @@ second_reading: 야고보서 2,1-5
 second_reading_link_cbck: Jas/2 
 second_reading_link: m=2&n=166&p=2
 gospel: 마르코 7,31-37
+gospel_link_de: Markus7
 gospel_link_cbck: Mk/7
 gospel_link: m=2&n=148&p=7
 

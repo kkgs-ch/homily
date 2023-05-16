@@ -8,7 +8,8 @@ second_reading: 로마서 10,9-18
 second_reading_link_cbck: Rom/10
 second_reading_link: m=2&n=152&p=10
 gospel: 루카 18,9-14
-gospel_link_cbck: Lk/18
+gospel_link_de: Lukas18
+gospel_link_cbck:  Lk/18
 gospel_link: m=2&n=149&p=18
 image: 800px-Delfy.jpeg
 
