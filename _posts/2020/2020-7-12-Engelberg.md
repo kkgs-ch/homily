@@ -6,16 +6,16 @@ image: engelberg.jpeg
 
 first_reading: 이사야서 55,10-11
  
-first_reading_link_cbck: Ls/55
-first_reading_link: m=1&n=129&p=55
+first_reading_link: Ls/55
+ 
 second_reading: 로마서 8,18-23
  
-second_reading_link_cbck: Rom/8
-second_reading_link: m=2&n=152&p=8
+second_reading_link: Rom/8
+ 
 gospel: 마태 13,1-23
  
-gospel_link_cbck: Mt/13
-gospel_link: m=2&n=147&p=13
+gospel_link: Mt/13
+ 
 
 ---
 

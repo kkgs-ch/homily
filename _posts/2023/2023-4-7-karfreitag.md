@@ -6,16 +6,16 @@ image: karfreitag.jpg
 bonstetten: true
 first_reading: 이사야서 52,13―53,12
  
-first_reading_link_cbck: Ls/52
-first_reading_link: m=1&n=129&p=52
+first_reading_link: Ls/52
+ 
 second_reading: 히브리서 4,14-16; 5,7-9
  
-second_reading_link_cbck: Heb/4 
-second_reading_link: m=2&n=165&p=4
+second_reading_link: Heb/4 
+ 
 gospel: 요한이 전한 우리 주 예수 그리스도의 수난기입니다. 18,1―19,42
  
-gospel_link_cbck: Jn/18
-gospel_link: menu=bible&m=2&n=150&p=18
+gospel_link: Jn/18
+ 
 
 ---
  
