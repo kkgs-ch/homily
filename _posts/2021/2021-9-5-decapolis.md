@@ -5,15 +5,10 @@ title: 연중 제23주일
 image: Abila_(Decapolis).jpeg
 
 first_reading: 이사야서 35,4-7ㄴ
- 
 first_reading_link: Ls/35
- 
 second_reading: 야고보서 2,1-5
- 
 second_reading_link: Jas/2 
- 
 gospel: 마르코 7,31-37
- 
 gospel_link: Mk/7
  
 

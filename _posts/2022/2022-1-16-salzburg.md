@@ -5,15 +5,10 @@ title: 연중 제2주일
 image: salzburg.jpeg
 
 first_reading: 이사야서 62,1-5
- 
 first_reading_link: Ls/62
- 
 second_reading: 코린토 1서 12,4-11
- 
 second_reading_link: 1Cor/12
- 
 gospel: 요한 2,1-11
- 
 gospel_link: Jn/2
  
 

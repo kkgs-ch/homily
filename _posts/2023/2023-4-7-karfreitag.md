@@ -5,15 +5,10 @@ title: 주님 수난 성금요일
 image: karfreitag.jpg
 bonstetten: true
 first_reading: 이사야서 52,13―53,12
- 
 first_reading_link: Ls/52
- 
 second_reading: 히브리서 4,14-16; 5,7-9
- 
 second_reading_link: Heb/4 
- 
 gospel: 요한이 전한 우리 주 예수 그리스도의 수난기입니다. 18,1―19,42
- 
 gospel_link: Jn/18
  
 

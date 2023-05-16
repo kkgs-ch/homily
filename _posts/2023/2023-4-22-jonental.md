@@ -5,11 +5,8 @@ layout: post
 bonstetten: true
 image: jonental.jpg
 second_reading: 베드로 1서 1,17-21
- 
 second_reading_link: 1Pt/1
- 
 gospel: 요한 21, 1-14
- 
 gospel_link: Jn/21
  
 daily_missa: 20230423

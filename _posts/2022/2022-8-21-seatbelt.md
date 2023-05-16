@@ -2,15 +2,10 @@
 layout: post
 title: ""
 first_reading: 이사야서 66,18-21
- 
 first_reading_link: Ls/66
- 
 second_reading: 히브리서 12,5-7.11-13
- 
 second_reading_link: Heb/12 
- 
 gospel: 루카 13,22-30
- 
 gospel_link: Lk/13
  
 image: 400px-Teddy_bear_toy_in_a_medical_mask_is_sitting_in_a_child_seat_in_the_car._(49894805893).jpg
