@@ -5,7 +5,8 @@ title: 연중 제2주일
 image: salzburg.jpeg
 
 first_reading: 이사야서 62,1-5
-first_reading_link_cbck: Ls/62
+first_reading_link_de: Jesaja62
+first_reading_link_cbck:  Ls/62
 first_reading_link: m=1&n=129&p=62
 second_reading: 코린토 1서 12,4-11
 second_reading_link_cbck: 1Cor/12

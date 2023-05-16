@@ -2,7 +2,8 @@
 layout: post
 title: ""
 first_reading: 이사야서 66,18-21
-first_reading_link_cbck: Ls/66
+first_reading_link_de: Jesaja66
+first_reading_link_cbck:  Ls/66
 first_reading_link: m=1&n=129&p=66
 second_reading: 히브리서 12,5-7.11-13
 second_reading_link_cbck: Heb/12 
