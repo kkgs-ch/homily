@@ -21,21 +21,21 @@ layout: default
     <h2 style="text-align: right;">이영덕 안토니오 신부님</h2>
     {%- if page.first_reading -%}
     <h3 style="text-align: right;"><a href="https://maria.catholic.or.kr/dictionary/term/term_view.asp?ctxtIdNum=8233&keyword=%EB%8F%85%EC%84%9C&gubun=04#">제1독서</a> > <a href="https://bible.cbck.or.kr/Knb/{{ page.first_reading_link_cbck | escape }}">{{ page.first_reading |
-      escape }}</a>  <a href="https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?{{ page.first_reading_link | escape }}">듣기</a></h3>
+      escape }}</a>   </h3>
     {%- endif -%}
     {%- if page.second_reading -%}
     <h3 style="text-align: right;"><a href="https://maria.catholic.or.kr/dictionary/term/term_view.asp?ctxtIdNum=8235&keyword=%EC%A0%9C2%EB%8F%85%EC%84%9C&gubun=04">제2독서</a> > <a href="https://bible.cbck.or.kr/Knb/{{ page.second_reading_link_cbck | escape }}">{{ page.second_reading |
-      escape }}</a> <a href="https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?{{ page.second_reading_link | escape }}">듣기</a>     </h3>
+      escape }}</a>    </h3>
     {%- endif -%}
     {%- if page.third_reading -%}
     <h3 style="text-align: right;">제3독서 > <a href="https://bible.cbck.or.kr/Knb/{{ page.third_reading_link_cbck | escape }}">{{ page.third_reading |
-      escape }}</a> <a href="https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?{{ page.third_reading_link | escape }}">듣기</a>   </h3>
+      escape }}</a>    </h3>
     {%- endif -%}
     {%- if page.epistle -%}
-    <h3 style="text-align: right;"><a href="https://maria.catholic.or.kr/dictionary/term/term_view.asp?ctxtIdNum=7404&keyword=%EC%84%9C%EA%B0%84&gubun=04">서간</a> > <a href="https://bible.cbck.or.kr/Knb/{{ page.epistle_link_cbck | escape }}">{{ page.epistle | escape }}</a>  <a href="https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?{{ page.epistle_link | escape }}">듣기</a>    </h3>
+    <h3 style="text-align: right;"><a href="https://maria.catholic.or.kr/dictionary/term/term_view.asp?ctxtIdNum=7404&keyword=%EC%84%9C%EA%B0%84&gubun=04">서간</a> > <a href="https://bible.cbck.or.kr/Knb/{{ page.epistle_link_cbck | escape }}">{{ page.epistle | escape }}</a>     </h3>
     {%- endif -%}
     {%- if page.gospel -%}
-    <h3 style="text-align: right;"><a href="https://maria.catholic.or.kr/dictionary/term/term_view.asp?ctxtIdNum=1218&keyword=%EB%B3%B5%EC%9D%8C&gubun=01">복음</a> > <a href="https://bible.cbck.or.kr/Knb/{{ page.gospel_link_cbck | escape }}">{{ page.gospel | escape }}</a> <a href="https://maria.catholic.or.kr/mobile/bible/read/bible_read.asp?{{ page.gospel_link | escape }}">듣기</a></h3>
+    <h3 style="text-align: right;"><a href="https://maria.catholic.or.kr/dictionary/term/term_view.asp?ctxtIdNum=1218&keyword=%EB%B3%B5%EC%9D%8C&gubun=01">복음</a> > <a href="https://bible.cbck.or.kr/Knb/{{ page.gospel_link_cbck | escape }}">{{ page.gospel | escape }}</a> </h3>
     {%- endif -%}
     <!-- Multiple ways to access 매일미사 https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }} -->
 
@@ -50,21 +50,7 @@ layout: default
           {%- else -%}
           <a href="https://missa.cbck.or.kr/DailyMissa/{{ page.date | date: '%Y%m%d' }}">
           {%- endif -%}
-          매일미사</a> > 
-        {%- if page.daily_read -%}
-        <a
-        href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.daily_read | escape }}#missa_02"> 읽기 </a>
-        {%- else -%}
-        <a
-        href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.date | date: '%Y%m%d' }}&missaid=13766#missa_02"> 읽기 </a>
-        {%- endif -%}
-         & 
-        {%- if page.daily_listen -%}
-        <a
-        href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?{{ page.daily_listen | escape }}"> 듣기</a>
-        {%- else -%}
-        <a href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }}"> 듣기</a>
-        {%- endif -%}
+          매일미사</a>  
       </h3>
 
     {%- endif -%}
