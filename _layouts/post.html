@@ -59,11 +59,15 @@ layout: default
     {%- endif -%}
 
 
-    {%- if page.image -%}
+    
     <p style="text-align:center;">
+      {%- if page.image -%}
       <img src="https://kkgs-ch.github.io/homily/assets/images/{{ page.image | escape }}">
+      {%- else -%}
+      <img src="https://kkgs-ch.github.io/homily/assets/images/{{ page.date | date: '%Y-%m-%d' | escape }}.jpg" alt="교육부: 어린이 복음+색칠공부">
+      {%- endif -%}
     </p>
-    {%- endif -%}
+    
   </header>
 
 
