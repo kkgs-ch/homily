@@ -5,7 +5,8 @@ layout: post
 bonstetten: true
 image: jonental.jpg
 second_reading: 베드로 1서 1,17-21
-second_reading_link_cbck: 1Pt/1
+second_reading_link_de: 1.Petrus1
+second_reading_link_cbck:  1Pt/1
 second_reading_link: m=2&n=167&p=1
 gospel: 요한 21, 1-14
 gospel_link_de: Johannes21
