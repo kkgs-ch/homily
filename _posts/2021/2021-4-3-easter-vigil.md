@@ -5,6 +5,7 @@ title: 파스카 성야
 image: Uetliberg_rueckseite.jpg
 bonstetten: true
 first_reading: 창세기 1,1―2,2
+first_reading_link_de: 1.Mose1
 first_reading_link_cbck: Gn/1
 first_reading_link: m=1&n=101&p=1
 second_reading: 창세기 22,1-18
@@ -12,9 +13,11 @@ second_reading_link_de: 1.Mose22
 second_reading_link_cbck:  Gn/22
 second_reading_link: m=1&n=101&p=22
 third_reading: 탈출기 14,15-15,1ㄱ
+third_reading_link_de: 2.Mose14
 third_reading_link_cbck: Ex/14
 third_reading_link: m=1&n=102&p=14
 epistle: 로마서 6,3-11
+epistle_link_de : Römer6
 epistle_link_cbck : Rom/6
 epistle_link: m=2&n=152&p=6
 gospel: 마르코 16,1-7
