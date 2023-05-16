@@ -9,7 +9,8 @@ first_reading_link_de: Jesaja52
 first_reading_link_cbck:  Ls/52
 first_reading_link: m=1&n=129&p=52
 second_reading: 히브리서 4,14-16; 5,7-9
-second_reading_link_cbck: Heb/4 
+second_reading_link_de: Hebräer4
+second_reading_link_cbck:  Heb/4 
 second_reading_link: m=2&n=165&p=4
 gospel: 요한이 전한 우리 주 예수 그리스도의 수난기입니다. 18,1―19,42
 gospel_link_de: Johannes18

@@ -6,7 +6,8 @@ first_reading_link_de: Jesaja66
 first_reading_link_cbck:  Ls/66
 first_reading_link: m=1&n=129&p=66
 second_reading: 히브리서 12,5-7.11-13
-second_reading_link_cbck: Heb/12 
+second_reading_link_de: Hebräer12
+second_reading_link_cbck:  Heb/12 
 second_reading_link: m=2&n=165&p=12
 gospel: 루카 13,22-30
 gospel_link_de: Lukas13

@@ -6,7 +6,8 @@ first_reading_link_de: Jesaja2
 first_reading_link_cbck:  Ls/2
 first_reading_link: m=1&n=129&p=2
 second_reading: 로마서 10,9-18
-second_reading_link_cbck: Rom/10
+second_reading_link_de: Römer10
+second_reading_link_cbck:  Rom/10
 second_reading_link: m=2&n=152&p=10
 gospel: 루카 18,9-14
 gospel_link_de: Lukas18

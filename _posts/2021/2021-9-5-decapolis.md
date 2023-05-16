@@ -9,7 +9,8 @@ first_reading_link_de: Jesaja35
 first_reading_link_cbck:  Ls/35
 first_reading_link: m=1&n=129&p=35
 second_reading: 야고보서 2,1-5
-second_reading_link_cbck: Jas/2 
+second_reading_link_de: Jakobus2
+second_reading_link_cbck:  Jas/2 
 second_reading_link: m=2&n=166&p=2
 gospel: 마르코 7,31-37
 gospel_link_de: Markus7
