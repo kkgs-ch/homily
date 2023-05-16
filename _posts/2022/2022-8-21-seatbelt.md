@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "연중 제21주일"
 first_reading: 이사야서 66,18-21
 first_reading_link: Ls/66
 second_reading: 히브리서 12,5-7.11-13
