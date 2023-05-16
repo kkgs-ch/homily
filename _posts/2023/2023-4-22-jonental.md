@@ -16,7 +16,7 @@ daily_missa: 20230423
 ---
 
 인사말씀>
-부활절 후에 많은 사람들이 성지순례를 합니다. 엠마오로 가는 두 제자들처럼 말입니다 (<a href="https://maria.catholic.or.kr/bible/read/bible_read.asp?menu=bible&m=2&n=149&p=24">루카복음 24장</a>).
+부활절 후에 많은 사람들이 성지순례를 합니다. 엠마오로 가는 두 제자들처럼 말입니다 (<a href="https://bible.cbck.or.kr/Knb/Lk/24">루카복음 24장</a>).
 저희가 오늘 미사를 드리는 이 <a href="https://kath-bremgarten-reusstal.ch/jonen/kapelle-jonental-2-2/">Kapelle Jonental</a>는 14세기에 지어졌고, 이 성당에 내려오는 전설에 따르면, 나쁜 사람들이 성모상을 훔쳐서 Jonerbach강에 버렸는데 Jonental강에서 다시 발견되었다고 합니다.
 
 강론말씀>
