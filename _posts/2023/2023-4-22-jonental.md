@@ -1,13 +1,13 @@
 ---
 
-title:  "11시 Wallfahrt Kapelle Jonental 부활 제3주일 특전미사"
+title: "11시 Wallfahrt Kapelle Jonental 부활 제3주일 특전미사"
 layout: post 
 bonstetten: true
-image:  jonental.jpg
-second_reading:  베드로 1서 1,17-21
+image: jonental.jpg
+second_reading: 베드로 1서 1,17-21
 second_reading_link_cbck: 1Pt/1
 second_reading_link: m=2&n=167&p=1
-gospel:  요한 21, 1-14
+gospel: 요한 21, 1-14
 gospel_link_cbck: Jn/21
 gospel_link: m=2&n=150&p=21
 daily_missa: 20230423
@@ -27,7 +27,7 @@ daily_listen: https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth=2023-04
 
 오늘 복음에서 예수님의 분부대로 시몬 베드로가 그물로 잡은 물고기가 153마리라고 합니다. 153이라는 숫자는 당시 이스라엘에 알려진 물고기 종류라는 전승이 있습니다. 153종류의 물고기는 그렇게나 많은 나라와 민족에서 사람들이 왔음을 뜻하는 게 아닐까요? 오늘 여기 성지순례를 오신 여러분들도 여러 나라에서 한국, 독일, 스위스, 네덜란드, 시리아, 슬로바키아 등 여러 나라에서 오셨습니다. 예수님의 그물 속으로 여러 나라, 여러 민족의 많은 사람들이 모여들었습니다.
 
-복음에서는 물고기를 숯불에 구워서 먹었을까요? 예수님은 예수님에게 모여든 사람들, 우리들을 어떻게 하실까요? 예수님은 사람들을 잡는 대신, 오히려 자유롭게 풀어주십니다. 우리들이 다른 곳에 퍼져서 다른 물고기들(사람들)을 데려오기를 바라십니다.  
+복음에서는 물고기를 숯불에 구워서 먹었을까요? 예수님은 예수님에게 모여든 사람들, 우리들을 어떻게 하실까요? 예수님은 사람들을 잡는 대신, 오히려 자유롭게 풀어주십니다. 우리들이 다른 곳에 퍼져서 다른 물고기들(사람들)을 데려오기를 바라십니다.
 
 <hr>
 

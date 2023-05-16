@@ -14,7 +14,7 @@ third_reading: 탈출기 14,15-15,1ㄱ
 third_reading_link_cbck: Ex/14
 third_reading_link: m=1&n=102&p=14
 epistle: 로마서 6,3-11
-epistle_link_cbck :
+epistle_link_cbck : Rom/6
 epistle_link: m=2&n=152&p=6
 gospel: 마르코 16,1-7
 gospel_link_cbck: Mk/16
