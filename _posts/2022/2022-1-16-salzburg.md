@@ -11,7 +11,8 @@ second_reading: 코린토 1서 12,4-11
 second_reading_link_cbck: 1Cor/12
 second_reading_link: m=2&n=153&p=12
 gospel: 요한 2,1-11
-gospel_link_cbck: Jn/2
+gospel_link_de: Johannes2
+gospel_link_cbck:  Jn/2
 gospel_link: m=2&n=150&p=2
 
 ---
