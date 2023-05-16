@@ -2,10 +2,13 @@
 layout: post
 title: 연중 제30주일, 민족들의 복음화를 위한 미사(전교 주일)
 first_reading: 이사야서 2,1-5
+first_reading_link_cbck: Ls/2
 first_reading_link: m=1&n=129&p=2
 second_reading: 로마서 10,9-18
+second_reading_link_cbck: Rom/10
 second_reading_link: m=2&n=152&p=10
 gospel: 루카 18,9-14
+gospel_link_cbck: Lk/18
 gospel_link: m=2&n=149&p=18
 image: 800px-Delfy.jpeg
 
