@@ -10,7 +10,7 @@ first_reading_link_cbck: Gn/1
 first_reading_link: m=1&n=101&p=1
 second_reading: 창세기 22,1-18
 second_reading_link_de: 1.Mose22
-second_reading_link_cbck:  Gn/22
+second_reading_link_cbck: Gn/22
 second_reading_link: m=1&n=101&p=22
 third_reading: 탈출기 14,15-15,1ㄱ
 third_reading_link_de: 2.Mose14
