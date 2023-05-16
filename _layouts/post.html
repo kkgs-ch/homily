@@ -48,7 +48,7 @@ layout: default
         {%- if page.daily_missa -%}
         <a href="https://missa.cbck.or.kr/DailyMissa/{{ page.daily_missa | escape }}">
           {%- else -%}
-          <a href="https://missa.cbck.or.kr/DailyMissa/{{ page.date | date: '%Y%m%d' }}"></a>
+          <a href="https://missa.cbck.or.kr/DailyMissa/{{ page.date | date: '%Y%m%d' }}">
           {%- endif -%}
           매일미사</a> > 
         {%- if page.daily_read -%}
