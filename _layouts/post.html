@@ -53,7 +53,7 @@ layout: default
           매일미사</a> > 
         {%- if page.daily_read -%}
         <a
-        href="{{ page.daily_read | escape }}"> 읽기 </a>
+        href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.daily_read | escape }}#missa_02"> 읽기 </a>
         {%- else -%}
         <a
         href="https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day={{ page.date | date: '%Y%m%d' }}&missaid=13766#missa_02"> 읽기 </a>
@@ -61,7 +61,7 @@ layout: default
          & 
         {%- if page.daily_listen -%}
         <a
-        href="{{ page.daily_listen | escape }}"> 듣기</a>
+        href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?{{ page.daily_listen | escape }}"> 듣기</a>
         {%- else -%}
         <a href="https://maria.catholic.or.kr/mi_pr/missa/missa.asp?gomonth={{ page.date | date: '%Y-%m-%d' }}"> 듣기</a>
         {%- endif -%}

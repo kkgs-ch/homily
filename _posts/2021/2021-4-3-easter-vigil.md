@@ -20,8 +20,8 @@ gospel: 마르코 16,1-7
 gospel_link_cbck: Mk/16
 gospel_link: m=2&n=148&p=16
 daily_missa: 20210403/14614
-daily_read: https://maria.catholic.or.kr/mi_pr/missa/ordinary.asp?day=20210403&missaid=12579&missatype=DA#missa_02
-daily_listen: https://maria.catholic.or.kr/mi_pr/missa/missa.asp?menu=missa&missaid=12579&gomonth=2021-04-03&missatype=DA
+daily_read: 20210403&missaid=12579&missatype=DA
+daily_listen: menu=missa&missaid=12579&gomonth=2021-04-03&missatype=DA
 
 ---
 
