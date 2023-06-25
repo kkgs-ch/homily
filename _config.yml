@@ -1,0 +1,25 @@
+title: 스위스 취리히 한인 천주교회 이영덕 안토니오 신부님 강론말씀 모음
+author:
+  name: Technical support
+  email: kkgs.ch@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  이영덕 안토니오 신부님께서 미사 때 해주신 강론 말씀을 한인성당 공동체 신자들이 모아두었습니다. 
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+baseurl: /homily
+
+# https://github.com/pattex/jekyll-tagging
+tag_page_layout: tag_page
+tag_page_dir: tag

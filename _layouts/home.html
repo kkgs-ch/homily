@@ -1,0 +1,37 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+
+<ul class="taxonomy__index">
+    {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+    {% for year in postsInYear %}
+    <li>
+        <a href="#{{ year.name }}_anchor">
+            <strong>{{ year.name }}년</strong>에 강론말씀을 <span class="taxonomy__count">{{ year.items | size }}번
+                기록하였습니다.</span>
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+
+{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+<section id="{{ year.name }}" class="taxonomy__section">
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+        {% for post in year.items %}
+        {% include archive-single.html type=page.entries_layout %}
+        {% endfor %}
+    </div>
+
+    <div style="text-align: right;" id="{{ year.name }}_anchor">
+        <a href="#page-title" class="back-to-top">&uarr; &uarr; &uarr; {{ site.data.ui-text[site.locale].back_to_top |
+            default: '맨 위로 가서 다른 연도 선택
+            하기' }}
+            &uarr; &uarr; &uarr;</a>
+    </div>
+    <H2> </H2>
+</section>
+{% endfor %}
